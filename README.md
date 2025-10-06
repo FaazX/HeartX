@@ -33,6 +33,6 @@ HeartX is designed for deployment in fields where rapid, high-stakes decisions a
 
 You can explore a live demonstration of the HeartX system here:
 
-### **[Live Demo: heartx.vercel.app](https://www.google.com/search?q=heartx.vercel.app)**
+### **[Live Demo: heartx.vercel.app](https://heartx.vercel.app)**
 
 -----
